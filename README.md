@@ -1,4 +1,4 @@
-# **CS61B - Spring 2018 代码全解 Full Code Guide**
+# **CS61B - Spring 2024**
 
 ## **目录Contents**
 
