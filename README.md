@@ -21,7 +21,9 @@
 
 ### HomeWork
 
-- [ ] HW 0 - Java, Python, Introduction - [Solution](hw/hw0) - [Website](https://sp24.datastructur.es/homeworks/hw0/hw0a/)
+- HW 0 - Java, Python, Introduction - [Solution](hw/hw0) - [Website](https://sp24.datastructur.es/homeworks/hw0/hw0a/)
+  - [x] HW 0a
+  - [ ] HW 0b
 - [ ] HW 1 - Packages, Interfaces, Generics, Exceptions, Iteration - [Solution](hw1/) - [Website](
 - [ ] HW 2 - Percolation - [Solution](hw2/) - [Website](https://sp24.datastructur.es/materials/hw/hw2/hw2)
 - [ ] HW 3 - Hashing - [Solution](hw3/) - [Website](https://sp24.datastructur.es/materials/hw/hw3/hw3)
@@ -33,7 +35,7 @@
 ### Project
 
 - [ ] Proj 0 - NBody Simulation - [Solution](proj0/) - [Website](https://sp24.datastructur.es/materials/proj/proj0/proj0)
-- [ ] Proj 1
+- Proj 1
   - [ ] A - Data Structures - [Solution](proj1a/) - [Website](https://sp24.datastructur.es/materials/proj/proj1a/proj1a)
   - [ ] B - Applying and Testing Data Structures - [Solution](proj1b/) - [Website](https://sp24.datastructur.es/materials/proj/proj1b/proj1b)
   - [ ] GOLD - Autograding - [Solution](proj1gold/) - [Website](https://sp24.datastructur.es/materials/proj/proj1gold/proj1gold)
