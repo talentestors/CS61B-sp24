@@ -1,0 +1,33 @@
+# EditorConfig is awesome: https://editorconfig.org
+
+# top-most EditorConfig file
+root = true
+
+# Unix-style newlines with a newline ending every file
+[*]
+end_of_line = lf
+insert_final_newline = true
+charset = utf-8
+indent_style = space
+indent_size = 4
+tab_width = 4
+trim_trailing_whitespace = true
+max_line_length = 100
+
+[Makefile]
+indent_style = tab
+
+[*.{java,kt}]
+indent_style = tab
+
+# No trailing whitespace
+[*.{js,jsp,jsx,ts,tsx,css,scss,html,json,xml}]
+indent_size = 2
+ij_javascript_use_double_quotes = true
+ij_css_use_double_quotes = true
+
+[*.md]
+trim_trailing_whitespace = false
+
+[*.{yml,yaml}]
+indent_size = 2
