@@ -21,9 +21,9 @@
 
 ### HomeWork
 
-- HW 0 - Java, Python, Introduction - [Solution](hw/hw0) - [Website](https://sp24.datastructur.es/homeworks/hw0/hw0a/)
-  - [x] HW 0a
-  - [ ] HW 0b
+- HW 0 - Java, Python, Introduction
+  - [x] HW 0a - [Solution](hw/hw0) - [Website](https://sp24.datastructur.es/homeworks/hw0/hw0a/)
+  - [x] HW 0b - [Solution](hw/hw0/hw0b) - [Website](https://sp24.datastructur.es/homeworks/hw0/hw0b/)
 - [ ] HW 1 - Packages, Interfaces, Generics, Exceptions, Iteration - [Solution](hw1/) - [Website](
 - [ ] HW 2 - Percolation - [Solution](hw2/) - [Website](https://sp24.datastructur.es/materials/hw/hw2/hw2)
 - [ ] HW 3 - Hashing - [Solution](hw3/) - [Website](https://sp24.datastructur.es/materials/hw/hw3/hw3)
