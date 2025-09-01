@@ -1,14 +1,14 @@
 # CS61B: Data Structures and Algorithms
 
-
+[![wakatime](https://wakatime.com/badge/github/talentestors/CS61B-sp24.svg)](https://wakatime.com/badge/github/talentestors/CS61B-sp24)
 
 ## Contents
 
 ### Lab
 
-- [ ] Lab 1 - javac, java, git - [Solution](lab1/) - [Website](https://sp24.datastructur.es/materials/lab/lab1/lab1)
+- [x] Lab 1 - Setup - [Solution](lab/lab01) - [Website](https://sp24.datastructur.es/labs/lab01/) - [library-sp24](https://github.com/Berkeley-CS61B/library-sp24/)
 - [ ] Lab 2 - IDEs - [Solution](lab2/) - [Website](https://sp24.datastructur.es/materials/lab/lab2/lab2)
-- [ ] Lab 2setup - Setting Up IntelliJ - [Solution](lab2setup/) - [Website](https://sp24.datastructur.es/materials/lab/lab2setup/lab2setup) - [library-sp24](https://github.com/Berkeley-CS61B/library-sp24/tree/f63dd94bbf9496dd6642a63cb5e8dd26b32e1728)
+- [ ] Lab 2setup - Setting Up IntelliJ - [Solution](lab2setup/) - [Website](https://sp24.datastructur.es/materials/lab/lab2setup/lab2setup)
 - [ ] Lab 3 - Testing, Debugging - [Solution](lab3/) - [Website](https://sp24.datastructur.es/materials/lab/lab3/lab3)
 - [ ] Lab 4 - Peer Code Review - [Solution](lab4/) - [Website](https://sp24.datastructur.es/materials/lab/lab4/lab4)
 - [ ] Lab 9 - Tree Maps vs. Hash Maps - [Solution](lab9/) - [Website](https://sp24.datastructur.es/materials/lab/lab9/lab9)
