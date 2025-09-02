@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/CS61B-sp24.iml" filepath="$PROJECT_DIR$/.idea/CS61B-sp24.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hw/hw0/hw0b/hw0b.iml" filepath="$PROJECT_DIR$/hw/hw0/hw0b/hw0b.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab/lab01/lab01.iml" filepath="$PROJECT_DIR$/lab/lab01/lab01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab/lab02/lab02.iml" filepath="$PROJECT_DIR$/lab/lab02/lab02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lec/lec2/lec2.iml" filepath="$PROJECT_DIR$/lec/lec2/lec2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lec/lec3/lec3.iml" filepath="$PROJECT_DIR$/lec/lec3/lec3.iml" />
+    </modules>
+  </component>
+</project>

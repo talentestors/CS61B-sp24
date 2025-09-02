@@ -71,8 +71,8 @@ hyponyms1000-subgraph.txt
 synsets1000-subgraph.txt
 
 # Please don't unless you know what you're doing
-*.iml
-**/.idea/**
+#*.iml
+#**/.idea/**
 
 ### Java ###
 # Compiled class file
