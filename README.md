@@ -7,30 +7,18 @@
 ### Lab
 
 - [x] Lab 1 - Setup - [Solution](lab/lab01) - [Website](https://sp24.datastructur.es/labs/lab01/) - [library-sp24](https://github.com/Berkeley-CS61B/library-sp24/)
-- [ ] Lab 2 - IDEs - [Solution](lab2/) - [Website](https://sp24.datastructur.es/materials/lab/lab2/lab2)
-- [ ] Lab 2setup - Setting Up IntelliJ - [Solution](lab2setup/) - [Website](https://sp24.datastructur.es/materials/lab/lab2setup/lab2setup)
+- [x] Lab 2 - Debugging (Part 1) - [Solution](lab/lab02) - [Website](https://sp24.datastructur.es/labs/lab02/)
 - [ ] Lab 3 - Testing, Debugging - [Solution](lab3/) - [Website](https://sp24.datastructur.es/materials/lab/lab3/lab3)
 - [ ] Lab 4 - Peer Code Review - [Solution](lab4/) - [Website](https://sp24.datastructur.es/materials/lab/lab4/lab4)
 - [ ] Lab 9 - Tree Maps vs. Hash Maps - [Solution](lab9/) - [Website](https://sp24.datastructur.es/materials/lab/lab9/lab9)
 - [ ] Lab 10 - Priority Queues - [Solution](lab10/) - [Website](https://sp24.datastructur.es/materials/lab/lab10/lab10)
-- [ ] Lab 11 - Graphs - [Solution](lab11/) - [Website](https://sp24.datastructur.es/materials/lab/lab11/lab11)
-- [ ] Lab 12 - Merge Sort and Quick Sort - [Solution](lab12/) - [Website](https://sp24.datastructur.es/materials/lab/lab12/lab12)
-- [ ] Lab 13 - Radix Sorts - [Solution](lab13/) - [Website](https://sp24.datastructur.es/materials/lab/lab13/lab13)
-- [ ] Lab 14 - Fractal Sound - [Solution](lab14/) - [Website](https://sp24.datastructur.es/materials/lab/lab14/lab14)
-- [ ] Lab 15 - HugLife - [Solution](lab15/) - [Website](https://sp24.datastructur.es/materials/lab/lab15/lab15)
 
 ### HomeWork
 
 - HW 0 - Java, Python, Introduction
   - [x] HW 0a - [Solution](hw/hw0) - [Website](https://sp24.datastructur.es/homeworks/hw0/hw0a/)
   - [x] HW 0b - [Solution](hw/hw0/hw0b) - [Website](https://sp24.datastructur.es/homeworks/hw0/hw0b/)
-- [ ] HW 1 - Packages, Interfaces, Generics, Exceptions, Iteration - [Solution](hw1/) - [Website](
-- [ ] HW 2 - Percolation - [Solution](hw2/) - [Website](https://sp24.datastructur.es/materials/hw/hw2/hw2)
-- [ ] HW 3 - Hashing - [Solution](hw3/) - [Website](https://sp24.datastructur.es/materials/hw/hw3/hw3)
-- [ ] HW 4 - 8 Puzzle - [Solution](hw4/) - [Website](https://sp24.datastructur.es/materials/hw/hw4/hw4)
-- [ ] HW 5 - Seam Carving - [Solution](hw5/) - [Website](https://sp24.datastructur.es/materials/hw/hw5/hw5)
-- [ ] HW 6 - Boggle - [Solution](hw6/) - [Website](https://sp24.datastructur.es/materials/hw/hw6/hw6)
-- [ ] HW 7 - Huffman Coding - [Solution](hw7/) - [Website](https://sp24.datastructur.es/materials/hw/hw7/hw7)
+- [ ] HW 2 - Packages, Interfaces, Generics, Exceptions, Iteration - [Solution](hw1/) - [Website](
 
 ### Project
 
