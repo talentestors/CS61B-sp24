@@ -22,7 +22,7 @@
 
 ### Project
 
-- [ ] Proj 0 - NBody Simulation - [Solution](proj0/) - [Website](https://sp24.datastructur.es/materials/proj/proj0/proj0)
+- [x] Proj 0 - 2048 - [Solution](proj/proj0/) - [Website](https://sp24.datastructur.es/projects/proj0/)
 - Proj 1
   - [ ] A - Data Structures - [Solution](proj1a/) - [Website](https://sp24.datastructur.es/materials/proj/proj1a/proj1a)
   - [ ] B - Applying and Testing Data Structures - [Solution](proj1b/) - [Website](https://sp24.datastructur.es/materials/proj/proj1b/proj1b)
