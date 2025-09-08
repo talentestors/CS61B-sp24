@@ -5,9 +5,6 @@
     <bower-package value="" />
     <bower.json value="" />
   </component>
-  <component name="Kotlin2JsCompilerArguments">
-    <option name="moduleKind" value="plain" />
-  </component>
   <component name="KubernetesApiProvider"><![CDATA[{}]]></component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">

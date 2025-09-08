@@ -8,7 +8,7 @@
 
 - [x] Lab 1 - Setup - [Solution](lab/lab01) - [Website](https://sp24.datastructur.es/labs/lab01/) - [library-sp24](https://github.com/Berkeley-CS61B/library-sp24/)
 - [x] Lab 2 - Debugging (Part 1) - [Solution](lab/lab02) - [Website](https://sp24.datastructur.es/labs/lab02/)
-- [ ] Lab 3 - Testing, Debugging - [Solution](lab3/) - [Website](https://sp24.datastructur.es/materials/lab/lab3/lab3)
+- [x] Lab 3 - Testing, Debugging - [Solution](lab/lab03/) - [Website](https://sp24.datastructur.es/labs/lab03/)
 - [ ] Lab 4 - Peer Code Review - [Solution](lab4/) - [Website](https://sp24.datastructur.es/materials/lab/lab4/lab4)
 - [ ] Lab 9 - Tree Maps vs. Hash Maps - [Solution](lab9/) - [Website](https://sp24.datastructur.es/materials/lab/lab9/lab9)
 - [ ] Lab 10 - Priority Queues - [Solution](lab10/) - [Website](https://sp24.datastructur.es/materials/lab/lab10/lab10)
