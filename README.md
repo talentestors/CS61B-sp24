@@ -24,7 +24,7 @@
 
 - [x] Proj 0 - 2048 - [Solution](proj/proj0/) - [Website](https://sp24.datastructur.es/projects/proj0/)
 - Proj 1
-  - [ ] A - Data Structures - [Solution](proj1a/) - [Website](https://sp24.datastructur.es/materials/proj/proj1a/proj1a)
+  - [x] A - LinkedListDeque61B - [Solution](proj/proj1a/) - [Website](https://sp24.datastructur.es/projects/proj1a/)
   - [ ] B - Applying and Testing Data Structures - [Solution](proj1b/) - [Website](https://sp24.datastructur.es/materials/proj/proj1b/proj1b)
   - [ ] GOLD - Autograding - [Solution](proj1gold/) - [Website](https://sp24.datastructur.es/materials/proj/proj1gold/proj1gold)
 - [ ] Proj 2 - CS61BYoG - [Solution](proj2/) - [Website](https://sp24.datastructur.es/materials/proj/proj2/proj2.html)
