@@ -1,3 +1,9 @@
 [submodule "library-sp24"]
 	path = lib/library-sp24
 	url = https://github.com/Berkeley-CS61B/library-sp24
+[submodule "lab/lab04/git-exercise-sp24"]
+	path = lab/lab04/git-exercise-sp24
+	url = https://github.com/Berkeley-CS61B/git-exercise-sp24.git
+[submodule "lab/lab04/git-exercise-remote"]
+	path = lab/lab04/git-exercise-remote
+	url = https://github.com/Berkeley-CS61B/git-exercise-remote.git
