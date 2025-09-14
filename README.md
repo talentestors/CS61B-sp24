@@ -8,27 +8,30 @@
 
 - [x] Lab 1 - Setup - [Solution](lab/lab01) - [Website](https://sp24.datastructur.es/labs/lab01/) - [library-sp24](https://github.com/Berkeley-CS61B/library-sp24/)
 - [x] Lab 2 - Debugging (Part 1) - [Solution](lab/lab02) - [Website](https://sp24.datastructur.es/labs/lab02/)
-- [x] Lab 3 - Testing, Debugging - [Solution](lab/lab03/) - [Website](https://sp24.datastructur.es/labs/lab03/)
-- [ ] Lab 4 - Peer Code Review - [Solution](lab4/) - [Website](https://sp24.datastructur.es/materials/lab/lab4/lab4)
-- [ ] Lab 9 - Tree Maps vs. Hash Maps - [Solution](lab9/) - [Website](https://sp24.datastructur.es/materials/lab/lab9/lab9)
-- [ ] Lab 10 - Priority Queues - [Solution](lab10/) - [Website](https://sp24.datastructur.es/materials/lab/lab10/lab10)
+- [x] Lab 3 - Debugging (Part 2) - [Solution](lab/lab03/) - [Website](https://sp24.datastructur.es/labs/lab03/)
+- [x] Lab 4 - Git - [Solution](lab/lab04/) - [Website](https://sp24.datastructur.es/labs/lab04/)
+- [ ] Lab 9 - Conway's Game of Life - [Solution](lab/lab09/) - [Website](https://sp24.datastructur.es/labs/lab09/)
+- [ ] Lab 10 - Tetris - [Solution](lab/lab10/) - [Website](https://sp24.datastructur.es/labs/lab10/)
 
 ### HomeWork
 
 - HW 0 - Java, Python, Introduction
   - [x] HW 0a - [Solution](hw/hw0) - [Website](https://sp24.datastructur.es/homeworks/hw0/hw0a/)
   - [x] HW 0b - [Solution](hw/hw0/hw0b) - [Website](https://sp24.datastructur.es/homeworks/hw0/hw0b/)
-- [ ] HW 2 - Packages, Interfaces, Generics, Exceptions, Iteration - [Solution](hw1/) - [Website](
+- [ ] HW 2 - Percolation - [Solution](hw/hw2) - [Website](https://sp24.datastructur.es/homeworks/hw2/)
 
 ### Project
 
 - [x] Proj 0 - 2048 - [Solution](proj/proj0/) - [Website](https://sp24.datastructur.es/projects/proj0/)
 - Proj 1
   - [x] A - LinkedListDeque61B - [Solution](proj/proj1a/) - [Website](https://sp24.datastructur.es/projects/proj1a/)
-  - [ ] B - Applying and Testing Data Structures - [Solution](proj1b/) - [Website](https://sp24.datastructur.es/materials/proj/proj1b/proj1b)
-  - [ ] GOLD - Autograding - [Solution](proj1gold/) - [Website](https://sp24.datastructur.es/materials/proj/proj1gold/proj1gold)
-- [ ] Proj 2 - CS61BYoG - [Solution](proj2/) - [Website](https://sp24.datastructur.es/materials/proj/proj2/proj2.html)
-- [ ] Proj 3 - Bear Maps - [Solution](proj3/) - [Website](https://sp24.datastructur.es/materials/proj/proj3/proj3)
+  - [x] B - ArrayDeque61B - [Solution](proj/proj1b/) - [Website](https://sp24.datastructur.es/projects/proj1b/)
+  - [ ] C - Deque61B Enhancements - [Solution](proj/proj1c/) - [Website](https://sp24.datastructur.es/projects/proj1c/)
+- Proj 2
+  - [ ] A - Ngordnet (NGrams) - [Solution](proj/proj2a/) - [Website](https://sp24.datastructur.es/projects/proj2a/)
+  - [ ] B - Ngordnet (Wordnet) - [Solution](proj/proj2b/) - [Website](https://sp24.datastructur.es/projects/proj2b/)
+  - [ ] C - Ngordnet Enhancements - [Solution](proj/proj2c/) - [Website](https://sp24.datastructur.es/projects/proj2c/)
+- [ ] Proj 3 - BYOW - [Solution](proj/proj3/) - [Website](https://sp24.datastructur.es/projects/proj3/)
 
 ## Friend Links
 
