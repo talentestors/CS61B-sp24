@@ -26,7 +26,7 @@
 - Proj 1
   - [x] A - LinkedListDeque61B - [Solution](proj/proj1a/) - [Website](https://sp24.datastructur.es/projects/proj1a/)
   - [x] B - ArrayDeque61B - [Solution](proj/proj1b/) - [Website](https://sp24.datastructur.es/projects/proj1b/)
-  - [ ] C - Deque61B Enhancements - [Solution](proj/proj1c/) - [Website](https://sp24.datastructur.es/projects/proj1c/)
+  - [x] C - Deque61B Enhancements - [Solution](proj/proj1c/) - [Website](https://sp24.datastructur.es/projects/proj1c/)
 - Proj 2
   - [ ] A - Ngordnet (NGrams) - [Solution](proj/proj2a/) - [Website](https://sp24.datastructur.es/projects/proj2a/)
   - [ ] B - Ngordnet (Wordnet) - [Solution](proj/proj2b/) - [Website](https://sp24.datastructur.es/projects/proj2b/)
