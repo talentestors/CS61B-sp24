@@ -1,13 +1,13 @@
-import java.awt.Font;
-import java.io.File;
-
 import edu.princeton.cs.algs4.In;
 import edu.princeton.cs.algs4.StdDraw;
 import edu.princeton.cs.algs4.StdRandom;
 
+import java.awt.*;
+import java.io.File;
+
 public class PercolationPicture {
     // delay in miliseconds (controls animation speed)
-    private static final int DELAY = 100;
+    private static final int DELAY = 10;
 
     // draw N-by-N percolation system
     public static void draw(Percolation perc, int N) {
@@ -74,11 +74,13 @@ public class PercolationPicture {
 
     // pick a random file from the inputFiles folder
     private static String pickRandomFile() {
-        File[] ar = new File("inputFiles").listFiles();
+		String cwd = System.getProperty("user.dir");
+		String path = cwd + "/hw/hw2/inputFiles";
+        File[] ar = new File(path).listFiles();
         if (ar == null) {
             throw new RuntimeException("could not find inputFiles");
         }
-        return "inputFiles/" + ar[StdRandom.uniform(ar.length)].getName();
+        return path + "/" + ar[StdRandom.uniform(ar.length)].getName();
     }
 
     public static void main(String[] args) {

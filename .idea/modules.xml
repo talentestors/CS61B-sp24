@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/CS61B-sp24.iml" filepath="$PROJECT_DIR$/.idea/CS61B-sp24.iml" />
       <module fileurl="file://$PROJECT_DIR$/hw/hw0/hw0b/hw0b.iml" filepath="$PROJECT_DIR$/hw/hw0/hw0b/hw0b.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hw/hw2/hw2.iml" filepath="$PROJECT_DIR$/hw/hw2/hw2.iml" />
       <module fileurl="file://$PROJECT_DIR$/lab/lab01/lab01.iml" filepath="$PROJECT_DIR$/lab/lab01/lab01.iml" />
       <module fileurl="file://$PROJECT_DIR$/lab/lab02/lab02.iml" filepath="$PROJECT_DIR$/lab/lab02/lab02.iml" />
       <module fileurl="file://$PROJECT_DIR$/lab/lab03/lab03.iml" filepath="$PROJECT_DIR$/lab/lab03/lab03.iml" />
