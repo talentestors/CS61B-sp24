@@ -10,6 +10,10 @@
 - [x] Lab 2 - Debugging (Part 1) - [Solution](lab/lab02) - [Website](https://sp24.datastructur.es/labs/lab02/)
 - [x] Lab 3 - Debugging (Part 2) - [Solution](lab/lab03/) - [Website](https://sp24.datastructur.es/labs/lab03/)
 - [x] Lab 4 - Git - [Solution](lab/lab04/) - [Website](https://sp24.datastructur.es/labs/lab04/)
+- [x] Lab 5 - Disjoint Sets - [Solution](lab/lab05/) - [Website](https://sp24.datastructur.es/labs/lab05/)
+- [x] Lab 6 - BSTMap - [Solution](lab/lab06/) - [Website](https://sp24.datastructur.es/labs/lab06/)
+- [ ] Lab 7 - LLRBs - [Solution](lab/lab07/) - [Website](https://sp24.datastructur.es/labs/lab07/)
+- [ ] Lab 8 - Hashmaps - [Solution](lab/lab08/) - [Website](https://sp24.datastructur.es/labs/lab08/)
 - [ ] Lab 9 - Conway's Game of Life - [Solution](lab/lab09/) - [Website](https://sp24.datastructur.es/labs/lab09/)
 - [ ] Lab 10 - Tetris - [Solution](lab/lab10/) - [Website](https://sp24.datastructur.es/labs/lab10/)
 
