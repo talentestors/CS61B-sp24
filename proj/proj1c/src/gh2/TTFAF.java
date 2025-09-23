@@ -1,6 +1,8 @@
 package gh2;
 
 import java.io.File;
+import java.net.URISyntaxException;
+import java.net.URL;
 
 /**
  * This code does some stuff. Run it (with sound on!) to find out what stuff it does!
@@ -20,11 +22,19 @@ public class TTFAF {
 
 		// You can also do this:
 		// You can download the file from https://tuneonmusic.com/zh/
-		System.out.println(System.getProperty("user.dir"));
-//		File source = new File("proj/proj1c/resources/midi/homura-advanced.mid");
-		File source = new File("proj/proj1c/resources/midi/gurenge-advanced.mid");
-		GuitarPlayer player = new GuitarPlayer(source);
-		player.play();
+//		URL resource = TTFAF.class.getResource("/midi/homura-advanced.mid");
+		URL resource = TTFAF.class.getResource("/midi/gurenge-advanced.mid");
+		if (resource == null) {
+			System.err.println("Couldn't find the resource.");
+			return;
+		}
+		try {
+			File source = new File(resource.toURI());
+			GuitarPlayer player = new GuitarPlayer(source);
+			player.play();
+		} catch (URISyntaxException e) {
+			throw new RuntimeException(e);
+		}
 	}
 
 	private static final String TTFAF =

@@ -32,7 +32,7 @@
   - [x] B - ArrayDeque61B - [Solution](proj/proj1b/) - [Website](https://sp24.datastructur.es/projects/proj1b/)
   - [x] C - Deque61B Enhancements - [Solution](proj/proj1c/) - [Website](https://sp24.datastructur.es/projects/proj1c/)
 - Proj 2
-  - [ ] A - Ngordnet (NGrams) - [Solution](proj/proj2a/) - [Website](https://sp24.datastructur.es/projects/proj2a/)
+  - [x] A - Ngordnet (NGrams) - [Solution](proj/proj2a/) - [Website](https://sp24.datastructur.es/projects/proj2a/)
   - [ ] B - Ngordnet (Wordnet) - [Solution](proj/proj2b/) - [Website](https://sp24.datastructur.es/projects/proj2b/)
   - [ ] C - Ngordnet Enhancements - [Solution](proj/proj2c/) - [Website](https://sp24.datastructur.es/projects/proj2c/)
 - [ ] Proj 3 - BYOW - [Solution](proj/proj3/) - [Website](https://sp24.datastructur.es/projects/proj3/)

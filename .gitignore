@@ -52,3 +52,6 @@ targets/
 *.zip
 *.tar.gz
 *.rar
+
+# CS61B specific
+proj/proj2a/**/data
