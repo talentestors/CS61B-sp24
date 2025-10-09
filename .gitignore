@@ -54,4 +54,4 @@ targets/
 *.rar
 
 # CS61B specific
-proj/proj2a/**/data
+proj/proj2*/**/data
