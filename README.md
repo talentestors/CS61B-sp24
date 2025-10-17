@@ -34,7 +34,7 @@
 - Proj 2
   - [x] A - Ngordnet (NGrams) - [Solution](proj/proj2a/) - [Website](https://sp24.datastructur.es/projects/proj2a/)
   - [x] B - Ngordnet (Wordnet) - [Solution](proj/proj2b/) - [Website](https://sp24.datastructur.es/projects/proj2b/)
-  - [ ] C - Ngordnet Enhancements - [Solution](proj/proj2c/) - [Website](https://sp24.datastructur.es/projects/proj2c/)
+  - [x] C - Ngordnet Enhancements - [Solution](proj/proj2c/) - [Website](https://sp24.datastructur.es/projects/proj2c/)
 - [ ] Proj 3 - BYOW - [Solution](proj/proj3/) - [Website](https://sp24.datastructur.es/projects/proj3/)
 
 ## Friend Links
